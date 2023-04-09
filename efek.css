@@ -1,0 +1,16 @@
+      body nav{
+      background-color: #1876f2;
+    }
+
+    .lado {
+      display: inline-block;
+      padding-right: 1em;
+    }
+
+    .lado a{
+    color: white;
+    }
+
+    .btn-outline-primary{
+      border-color: white;
+    }
